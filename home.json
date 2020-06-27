@@ -1,0 +1,118 @@
+{
+    "home": [
+        {
+            "Banner": {
+            	"count": "2",
+            	"errorCount": "0",
+	            "data": [
+	                {
+	                    "Title": "The Bengali Night",
+	                    "Year": "1988",
+	                    "movieId": "tt0095759",
+	                    "Type": "Free",
+	                    "status": "New",
+	                    "category": "Action, Adventure",
+	                    "description": "Description",
+	                    "Director": "Director",
+	                    "trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+	                    "streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+	                    "Poster": "https://ia.media-imdb.com/images/M/MV5BNmQwY2I1MDgtNGViZi00M2JjLTg0ZDEtZjQxODE5ZjQzMDg4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+	                },
+	                {
+	                    "Title": "The Bengali Night",
+	                    "Year": "1988",
+	                    "movieId": "tt0095759",
+	                    "Type": "Free",
+	                    "status": "New",
+	                    "category": "Action,Adventure",
+	                    "description": "Description",
+	                    "Director": "Director",
+	                    "trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+	                    "streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+	                    "Poster": "https://ia.media-imdb.com/images/M/MV5BNmQwY2I1MDgtNGViZi00M2JjLTg0ZDEtZjQxODE5ZjQzMDg4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+	                }
+	            ],
+	            "error": []
+            }
+        },
+        {
+            "Latest Movies": {
+            	"count": "2",
+            	"errorCount": "1",
+            	"data": [
+	                {
+	                    "Title": "The Bengali Night",
+	                    "Year": "1988",
+	                    "movieId": "tt0095759",
+	                    "Type": "Premium",
+	                    "status": "New",
+	                    "category": "Action,Adventure",
+	                    "description": "Description",
+	                    "Director": "Director",
+	                    "trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+	                    "streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+	                    "Poster": "https://ia.media-imdb.com/images/M/MV5BNmQwY2I1MDgtNGViZi00M2JjLTg0ZDEtZjQxODE5ZjQzMDg4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+	                },
+	                {
+	                    "Title": "The Bengali Night",
+	                    "Year": "1988",
+	                    "movieId": "tt0095759",
+	                    "Type": "Premium",
+	                    "status": "New",
+	                    "category": "Action,Adventure",
+	                    "description": "Description",
+	                    "Director": "Director",
+	                    "trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+	                    "streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+	                    "Poster": "https://ia.media-imdb.com/images/M/MV5BNmQwY2I1MDgtNGViZi00M2JjLTg0ZDEtZjQxODE5ZjQzMDg4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+	                }
+	            ],
+	            "error": [
+	            	{
+	            		"message": "Some critical error. Cannot load data properly"
+	            	}
+	            ]
+            }
+        },
+		        {
+            "Popular": {
+            	"count": "2",
+            	"errorCount": "1",
+            	"data": [
+	                {
+	                    "Title": "The Bengali Night",
+	                    "Year": "1988",
+	                    "movieId": "tt0095759",
+	                    "Type": "Premium",
+	                    "status": "New",
+	                    "category": "Action,Adventure",
+	                    "description": "Description",
+	                    "Director": "Director",
+	                    "trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+	                    "streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+	                    "Poster": "https://ia.media-imdb.com/images/M/MV5BNmQwY2I1MDgtNGViZi00M2JjLTg0ZDEtZjQxODE5ZjQzMDg4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+	                },
+	                {
+	                    "Title": "The Bengali Night",
+	                    "Year": "1988",
+	                    "movieId": "tt0095759",
+	                    "Type": "Premium",
+	                    "status": "New",
+	                    "category": "Action,Adventure",
+	                    "description": "Description",
+	                    "Director": "Director",
+	                    "trailerUrl": "https://www.youtube.com/watch?v=I2BsJzavM-k",
+	                    "streamUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+	                    "Poster": "https://ia.media-imdb.com/images/M/MV5BNmQwY2I1MDgtNGViZi00M2JjLTg0ZDEtZjQxODE5ZjQzMDg4XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg"
+	                }
+	            ],
+	            "error": [
+	            	{
+	            		"message": "Some critical error. Cannot load data properly"
+	            	}
+	            ]
+            }
+        }
+		
+    ]
+}
