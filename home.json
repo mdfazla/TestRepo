@@ -4,6 +4,7 @@
             "Banner": {
             	"count": "2",
             	"errorCount": "0",
+		"viewType": 1
 	            "data": [
 	                {
 	                    "Title": "The Bengali Night",
@@ -39,6 +40,7 @@
             "Latest Movies": {
             	"count": "2",
             	"errorCount": "1",
+		"viewType": 2
             	"data": [
 	                {
 	                    "Title": "The Bengali Night",
@@ -78,6 +80,7 @@
             "Popular": {
             	"count": "2",
             	"errorCount": "1",
+		"viewType": 3
             	"data": [
 	                {
 	                    "Title": "The Bengali Night",
